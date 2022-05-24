@@ -32,10 +32,10 @@ Code Auditing
 Server Penetration Testing  
 Website Code Injection Testing  
 
-### Website Developed By;
+### Website Developer & Services Used;
 ***C3lt1c Viking  
-Ruby on Rails  
-GitHub  
-Heroku  
-Digital Ocean  
-NGINX***
+Ruby -v 3.1.2  
+Rails -v 7.0.3  
+GitHub https://github.com/C3lt1cViking90/C3lt1cVikingOperations  
+Heroku https://c3lt1cviking.herokuapp.com  
+Digital Ocean  http://www.c3lt1cviking.com***
