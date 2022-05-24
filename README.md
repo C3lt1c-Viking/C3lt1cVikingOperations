@@ -26,11 +26,11 @@ Ruby on Rails
 Android Applications  
 iOS Applications  
 
-*Hacking Services:*
-Domain Name Auditing
-Code Auditing
-Server Penetration Testing
-Website Code Injection Testing
+*Hacking Services:*  
+Domain Name Auditing  
+Code Auditing  
+Server Penetration Testing  
+Website Code Injection Testing  
 
 ### Website Developed By;
 ***C3lt1c Viking  
