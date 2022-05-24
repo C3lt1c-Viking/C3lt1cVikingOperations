@@ -12,9 +12,11 @@ gem "stimulus-rails",  "1.0.4"
 gem "jbuilder",        "2.11.5"
 gem "puma",            "5.6.4"
 gem "bootsnap",        "1.11.1", require: false
-gem "bootstrap-sass",  "~> 3.4.1"
 gem "sqlite3", "1.4.2"
 
+group :assets do
+  gem "bootstrap-sass",  "~> 3.4.1"
+end
 
 group :development, :test do
   gem "debug",   "1.4.0", platforms: %i[ mri mingw x64_mingw ]
