@@ -18,7 +18,7 @@ website for your company!
 
 **Services Rendered:**
 
-*Development Services:*
+*Development Services:*  
 Informational Websites (HTML5/CSS3/JS)  
 PhP Websites  
 WordPress  
